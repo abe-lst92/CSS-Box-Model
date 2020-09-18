@@ -1,0 +1,77 @@
+/* h1 {
+    border: black 15px dotted;
+    width: 50%;
+    height: 35px;
+    padding: 50px 10px;
+} */
+
+
+.nav {
+
+    font-style: italic;
+    color: green;
+    position: sticky;
+    float: right; 
+    font-size: 18px;
+    margin-top: 20px;
+    word-spacing: 5px;
+}
+.nav1 {
+
+    font-style: italic;
+    color:  blueviolet;
+    position: sticky;
+    float: right; 
+    font-size: 18px;
+    margin-top: 20px;
+}
+.nav2 {
+
+    font-style: 'Times New Roman';
+    color: blue;
+    position: sticky;
+    float: right; 
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.title {
+    font-family: "Ranchers script=latin rev=1";
+
+    text-align: center; 
+    color: blue;
+
+}
+
+a {
+    text-decoration: none;
+
+}
+.image{
+    background-position-x: 200px;
+    
+}
+
+
+
+
+
+h2 {
+    border: hotpink 10px dashed;
+    width: 50%;
+    height: 35px;
+    padding: 50px 10px;
+
+
+}
+
+p {
+    border: forestgreen 15px inset;
+    width: 50%;
+    height: 125px;
+    padding: 50px 10px;
+
+}
+
+
+
