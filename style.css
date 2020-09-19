@@ -1,9 +1,9 @@
-/* h1 {
+/*  h1 {
     border: black 15px dotted;
     width: 50%;
     height: 35px;
     padding: 50px 10px;
-} */
+/* }  */
 
 
 .nav {
@@ -12,9 +12,9 @@
     color: green;
     position: sticky;
     float: right; 
-    font-size: 18px;
+    font-size: 15px;
     margin-top: 20px;
-    word-spacing: 5px;
+    
 }
 .nav1 {
 
@@ -22,7 +22,7 @@
     color:  blueviolet;
     position: sticky;
     float: right; 
-    font-size: 18px;
+    font-size: 15px;
     margin-top: 20px;
 }
 .nav2 {
@@ -31,32 +31,63 @@
     color: blue;
     position: sticky;
     float: right; 
-    font-size: 18px;
+    font-size: 15px;
     margin-top: 20px;
+   
 }
 
-.title {
-    font-family: "Ranchers script=latin rev=1";
+ a { 
+    
+text-decoration: none;
+padding: 10px;
+}
 
-    text-align: center; 
+ .movie-title { 
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-align: center; 
     color: blue;
+    background-color: lightgray;
+    border: solid black 15px;
+    
+
+    
 
 }
 
-a {
-    text-decoration: none;
-
+.image {
+    float: right;
+    width: 20.33%;
+    padding: 5px;
+    background-color: black;
+    border: solid darkred 20px;
 }
-.image{
-    background-position-x: 200px;
+
+
+
+.info { 
+    text-align: left;
+    font-style: italic;
+    color: darkred;
+    
+}
+
+.foot{
+    text-align: center;
+    float: center;
+    margin-top: 300px;
+    border: inset black 25px;
+    background-color: darkcyan;
+    height: max-content;
+    font-size: 25px;
+
     
 }
 
 
 
 
-
-h2 {
+/* h2 { 
     border: hotpink 10px dashed;
     width: 50%;
     height: 35px;
@@ -65,13 +96,13 @@ h2 {
 
 }
 
-p {
+ /* p { 
     border: forestgreen 15px inset;
     width: 50%;
     height: 125px;
     padding: 50px 10px;
 
-}
+/* }   */
 
 
 
